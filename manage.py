@@ -1,4 +1,5 @@
 """
+ha ha
 Script for managing the CONTRIBUTOR.md file.
 What this script does?
 - Remove trailing whitespaces before '####'
